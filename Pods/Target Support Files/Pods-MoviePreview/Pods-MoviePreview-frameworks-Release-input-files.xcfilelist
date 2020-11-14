@@ -1,3 +1,4 @@
 ${PODS_ROOT}/Target Support Files/Pods-MoviePreview/Pods-MoviePreview-frameworks.sh
+${BUILT_PRODUCTS_DIR}/ActivityIndicatorView/ActivityIndicatorView.framework
 ${BUILT_PRODUCTS_DIR}/Alamofire/Alamofire.framework
 ${BUILT_PRODUCTS_DIR}/Moya/Moya.framework
